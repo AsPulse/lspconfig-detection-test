@@ -1,0 +1,6 @@
+{
+  "workspace": ["./add", "./subtract"],
+  "imports": {
+    "chalk": "npm:chalk@5"
+  }
+}

@@ -12,3 +12,7 @@ Due to these circumstances, the LSP launch logic has become complex, and this re
 
 This is mainly to address issues occurring in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig), but this collection of test cases might be useful for any text editor.
 
+## Run tests
+1. Make sure you are in the root directory of this repository.
+2. Launch nvim.
+3. Run `:luafile tests/main.lua`.
