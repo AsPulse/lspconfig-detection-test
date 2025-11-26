@@ -1,7 +1,7 @@
 --- @type TestCase
 return {
   name = "single deno project without lockfile",
-  fixture_source = "single-deno-projects-without-lockfile",
+  fixture_source = "single-deno-project-without-lockfile",
   current_dir = "",
   target = "main.ts",
   prepare = function(_, ready) ready() end,

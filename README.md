@@ -15,4 +15,4 @@ This is mainly to address issues occurring in [neovim/nvim-lspconfig](https://gi
 ## Run tests
 1. Make sure you are in the root directory of this repository.
 2. Launch nvim.
-3. Run `:luafile tests/main.lua`.
+3. Run `:luafile runner/main.lua`.
